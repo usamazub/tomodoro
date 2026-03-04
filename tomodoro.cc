@@ -18,7 +18,6 @@ int main(int argc, char* argv[]) {
 
   int total_seconds = total_minutes * 60;
 
-  total_seconds = 3;
   while (total_seconds >= 0) {
     int minutes = total_seconds / 60;
     int seconds = total_seconds % 60;
