@@ -15,4 +15,6 @@ int main(int argc, char* argv[]) {
   }
 
   tomodoro(total_minutes);
+
+  return 0;
 }
